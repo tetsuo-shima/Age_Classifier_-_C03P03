@@ -44,7 +44,5 @@ def get_classification(age):
     return classification
 
 
-
-
-
-main()
+if __name__ == '__main__':
+    main()
